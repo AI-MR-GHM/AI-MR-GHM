@@ -2,8 +2,8 @@
 
  Hi, I'm Huimin Guo (郭慧敏) 
 - 📕 Research interests: Audio Process (Sound Event Detection, Sound Recognition, and Sound Enhancement) | Audio Generate | Image Generate |
-- 📫 How to concact me: yuguochen@kuaishou.com
-- 🔭 I’m currently working on Kuaishou Technology, Beijing, China. 
+- 📫 How to concact me: ghm@semi.ac.cn
+- 🔭 I’m currently studying in the Institute of Semiconductors, University of Chinese Academy of Sciences, Beijing, China. 
 
 <table id="tbl" border=1 width="80%" rules=none frame=void>
 <td><img src="https://github-readme-stats.vercel.app/api?username=yuguochencuc&show_icons=true&hide=issues&theme=dark&hide_title=false" ></td>
